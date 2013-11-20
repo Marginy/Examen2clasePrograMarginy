@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1381455648 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiClase.cpp
+	"MiClase.h"
+
+1381455657 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiClase.h
+	<iostream>
+
+1384897284 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/main.cpp
+	<vector>
+	"Nodo.h"
+	"Lista.h"
+	"ArbolBinario.h"
+	<iostream>
+	<fstream>
+
+1381456153 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiOtraClase.cpp
+	"MiOtraClase.h"
+
+1381456528 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/MiOtraClase.h
+	"MiClase.h"
+
+1382060934 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Jugador.cpp
+	"Jugador.h"
+
+1382060923 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Jugador.h
+
+1382061232 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Enemigo.cpp
+	"Enemigo.h"
+
+1382061227 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Enemigo.h
+	"Jugador.h"
+
+1383008713 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Personaje.cpp
+	"Personaje.h"
+
+1383009756 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Personaje.h
+	<string>
+	<iostream>
+
+1383010098 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Curador.cpp
+	"Curador.h"
+
+1383008979 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Curador.h
+	"Personaje.h"
+
+1383009850 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Tanque.cpp
+	"Tanque.h"
+
+1383009823 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Tanque.h
+	"Personaje.h"
+
+1384843169 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Nodo.cpp
+	"Nodo.h"
+
+1384843153 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Nodo.h
+	<iostream>
+	<string>
+
+1384844965 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Lista.cpp
+	"Lista.h"
+
+1384843786 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/Lista.h
+	<iostream>
+	<fstream>
+	"Nodo.h"
+
+1383874438 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/NodoArbol.cpp
+	"NodoArbol.h"
+
+1383874390 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/NodoArbol.h
+
+1384897044 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/ArbolBinario.cpp
+	"ArbolBinario.h"
+
+1384897104 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Testground/ArbolBinario.h
+	<iostream>
+	"NodoArbol.h"
+
+1384843169 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Examen 1/Nodo.cpp
+	"Nodo.h"
+
+1384843153 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Examen 1/Nodo.h
+	<iostream>
+	<string>
+
+1383874438 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Examen 1/NodoArbol.cpp
+	"NodoArbol.h"
+
+1383874390 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Examen 1/NodoArbol.h
+
+1384897284 source:/home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Examen 1/main.cpp
+	<vector>
+	"Nodo.h"
+	"Lista.h"
+	"ArbolBinario.h"
+	<iostream>
+	<fstream>
+
+1384843786 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Examen 1/Lista.h
+	<iostream>
+	<fstream>
+	"Nodo.h"
+
+1384897104 /home/turupawn/Projects/CodeBlocks/Progra 3/Ejemplos/Examen 1/ArbolBinario.h
+	<iostream>
+	"NodoArbol.h"
+
+1384912254 source:c:\users\marginy\desktop\examen 2_\arbolbinario.cpp
+	"ArbolBinario.h"
+
+1384897104 c:\users\marginy\desktop\examen 2_\arbolbinario.h
+	<iostream>
+	"NodoArbol.h"
+
+1383874390 c:\users\marginy\desktop\examen 2_\nodoarbol.h
+
+1384913652 source:c:\users\marginy\desktop\examen 2_\lista.cpp
+	"Lista.h"
+	"Lista.h"
+
+1384913652 c:\users\marginy\desktop\examen 2_\lista.h
+	<iostream>
+	<fstream>
+	"Nodo.h"
+
+1384843152 c:\users\marginy\desktop\examen 2_\nodo.h
+	<iostream>
+	<string>
+
+1384897284 source:c:\users\marginy\desktop\examen 2_\main.cpp
+	<vector>
+	"Nodo.h"
+	"Lista.h"
+	"ArbolBinario.h"
+	<iostream>
+	<fstream>
+
+1384843168 source:c:\users\marginy\desktop\examen 2_\nodo.cpp
+	"Nodo.h"
+
+1383874438 source:c:\users\marginy\desktop\examen 2_\nodoarbol.cpp
+	"NodoArbol.h"
+
